@@ -1,0 +1,6 @@
+[submodule "cowebxr"]
+	path = cowebxr
+	url = https://github.com/cao-jacky/cowebxr/
+[submodule "janus_sfu_edge"]
+	path = janus_sfu_edge
+	url = https://github.com/cao-jacky/janus_sfu_edge
